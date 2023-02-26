@@ -2,6 +2,10 @@
 
 Simple template for quick Node application startup
 
+## Setup
+- Create `.env` file in root directory
+- Inside `.env` define your port e.g. `PORT=8000`
+
 ## Commands
 
 - `npm run start` - run application
